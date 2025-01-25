@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AdvanceWeaponMastery",
+	"Description": "WeaponMastery is an Unreal Engine plugin dedicated to weapon attribute progression, unlocking advanced features and upgrades as weapons gain mastery.",
+	"Category": "Other",
+	"CreatedBy": "Reverse-A",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true
+}

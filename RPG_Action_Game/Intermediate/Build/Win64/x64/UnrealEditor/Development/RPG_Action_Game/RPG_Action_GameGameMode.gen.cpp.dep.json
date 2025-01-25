@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\rpg_action_gamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\rpg_action_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpg_action_game\\definitions.rpg_action_game.h",
+            "d:\\unreal projects\\rpg_action_game\\source\\rpg_action_game\\rpg_action_gamegamemode.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\rpg_action_gamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

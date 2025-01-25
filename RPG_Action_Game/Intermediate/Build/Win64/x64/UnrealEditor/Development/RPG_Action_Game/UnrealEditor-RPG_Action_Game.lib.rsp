@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RPG_Action_Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\RPG_Action_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\DefaultEnemy.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\DefaultWeapon.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_Game.init.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_GameCharacter.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_GameGameMode.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\SensorLight.gen.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\DefaultEnemy.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\DefaultWeapon.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_Game.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_GameCharacter.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\RPG_Action_GameGameMode.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\SensorLight.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\StatAssignmentCPP.cpp.obj"
+"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\Default.rc2.res"
+/OUT:"D:\Unreal Projects\RPG_Action_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Action_Game\UnrealEditor-RPG_Action_Game.lib"

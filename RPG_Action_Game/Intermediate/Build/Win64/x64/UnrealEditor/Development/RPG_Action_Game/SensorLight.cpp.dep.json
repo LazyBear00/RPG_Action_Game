@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\rpg_action_game\\source\\rpg_action_game\\sensorlight.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\rpg_action_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpg_action_game\\definitions.rpg_action_game.h",
+            "d:\\unreal projects\\rpg_action_game\\source\\rpg_action_game\\sensorlight.h",
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\sensorlight.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\pointlightcomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\locallightcomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponent.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponentbase.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponentbase.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\locallightcomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pointlightcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

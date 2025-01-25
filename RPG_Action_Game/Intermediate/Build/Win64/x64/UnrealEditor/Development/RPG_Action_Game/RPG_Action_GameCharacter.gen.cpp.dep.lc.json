@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\rpg_action_gamecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\rpg_action_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpg_action_game\\definitions.rpg_action_game.h",
+            "d:\\unreal projects\\rpg_action_game\\source\\rpg_action_game\\rpg_action_gamecharacter.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\unreal projects\\rpg_action_game\\source\\rpg_action_game\\defaultweapon.h",
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\defaultweapon.generated.h",
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\rpg_action_gamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

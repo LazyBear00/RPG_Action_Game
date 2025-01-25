@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\unrealeditor\\inc\\rpg_action_game\\uht\\rpg_action_game.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\rpg_action_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\rpg_action_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpg_action_game\\definitions.rpg_action_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

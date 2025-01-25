@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RPG_Action_Game",
+			"Path": "..\\Source\\RPG_Action_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPG_Action_GameEditor",
+			"Path": "..\\Source\\RPG_Action_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

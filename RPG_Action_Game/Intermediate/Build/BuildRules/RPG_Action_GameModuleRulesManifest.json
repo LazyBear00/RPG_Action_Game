@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\RPG_Action_Game\\Source\\RPG_Action_Game\\RPG_Action_Game.Build.cs",
+		"D:\\Unreal Projects\\RPG_Action_Game\\Source\\RPG_Action_Game.Target.cs",
+		"D:\\Unreal Projects\\RPG_Action_Game\\Source\\RPG_Action_GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
